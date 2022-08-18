@@ -88,7 +88,7 @@ p:last-of-type {
   margin-bottom: 50px;
 }
 
-p:first-of-type {
+.page > p:first-of-type {
   color: #7E8184;
   font-style: italic;
 }
