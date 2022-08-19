@@ -45,6 +45,10 @@
   background-color: #5995DA;  /* Blue */
 }
 
+#button-2 {
+  background-color: #D55C5F;    /* Red */
+}
+
 .call-to-action:link,
 .call-to-action:visited {
   font-style: italic;
@@ -91,4 +95,8 @@ p:last-of-type {
 .page > p:first-of-type {
   color: #7E8184;
   font-style: italic;
+}
+
+#button-2 {
+  color: #5D6063;  /* Dark gray */
 }
